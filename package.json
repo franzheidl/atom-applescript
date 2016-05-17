@@ -1,6 +1,6 @@
 {
   "name": "language-applescript",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "private": true,
   "description": "Applescript language support for Atom. Converted from https://github.com/textmate/applescript.tmbundle.",
   "repository": "https://github.com/franzheidl/atom-applescript",
