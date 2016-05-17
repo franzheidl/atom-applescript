@@ -4,6 +4,8 @@ Applescript language support for Atom. Converted from [https://github.com/textma
 
 ## Changelog
 
+* `0.2.2` Set correct comment style
+
 * `0.2.1` Mimic the behaviour of Apple's [Script Editor](http://help.apple.com/applescript/mac/10.9/#apscrpt1067) by automatically de/recompiling .scpt files using the native `osacompile`/`osadecompile` utilities<sup id="R1">[*](#F1)</sup>
 
 * `0.2.0` Add .scpt support, store package settings in `settings/`
