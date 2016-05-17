@@ -8,5 +8,8 @@
   "engines": {
     "atom": ">0.50.0"
   },
+  "activationHooks": [
+    "language-applescript:grammar-used"
+  ],
   "dependencies": {}
 }
