@@ -821,7 +821,7 @@
   'comments':
     'patterns': [
       {
-        'begin': '^\\s*(#!)'
+        'begin': '#'
         'captures':
           '1':
             'name': 'punctuation.definition.comment.applescript'
